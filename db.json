@@ -1,40 +1,76 @@
 {
- "properties" :[   {
-        "id":"0",
-        "lookup_Value": "0",
-        "lookup_Text": "- Please select -"
-    },
-    {
-        "id":"1",
-        "lookup_Value": "51",
-        "lookup_Text": "Abacus House"
-    },
-    {
-        "id":"2",
-        "lookup_Value": "99",
-        "lookup_Text": "Aldgate"
-    }
- ],
- "roomTypes" : [
-  {
-        "id":"1",
-        "lookup_Value": "1",
-        "lookup_Text": "Penthouse Apartment-Birm"
-    },
-    {
-        "id":"2",
-        "lookup_Value": "2",
-        "lookup_Text": "Public-Birm"
-    },
-    {
-      "id":"3",
-        "lookup_Value": "3",
-        "lookup_Text": "Staff-Birm"
-    },
-    {
-        "id":"4",
-        "lookup_Value": "4",
-        "lookup_Text": "En Suite Bedroom-Birm"
-    }
- ]
+    "properties": [
+        {
+            "id": "0",
+            "lookup_Text": "- Please select -",
+            "lookup_Value": "0"
+        },
+        {
+            "id": "1",
+            "lookup_Text": "Abacus House",
+            "lookup_Value": "51"
+        },
+        {
+            "id": "2",
+            "lookup_Text": "Aldgate",
+            "lookup_Value": "99"
+        }
+    ],
+    "Recipients": [
+        {
+            "email": "test10gmail.com",
+            "entryId": "10",
+            "entrystatus": "Held",
+            "firstName": "test10",
+            "id": "#10425",
+            "lastName": "testing10",
+            "location": "Aldgate",
+            "recType": "Guarantor",
+            "room": "10"
+        },
+        {
+            "email": "test1@gmail.com",
+            "entryId": "9",
+            "entrystatus": "Reserved",
+            "firstName": "test1",
+            "id": "#10426",
+            "lastName": "testing1",
+            "location": "Aldgate",
+            "recType": "student",
+            "room": "1"
+        },
+        {
+            "email": "test1@gmail.com",
+            "entryId": "1",
+            "entrystatus": "In Room",
+            "firstName": "test1",
+            "id": "#10421",
+            "lastName": "testing1",
+            "location": "Abacus House",
+            "recType": "student",
+            "room": "1"
+        }
+    ],
+    "roomTypes": [
+        {
+            "id": "1",
+            "lookup_Text": "Penthouse Apartment-Birm",
+            "lookup_Value": "1"
+        },
+        {
+            "id": "2",
+            "lookup_Text": "Public-Birm",
+            "lookup_Value": "2"
+        },
+        {
+            "id": "3",
+            "lookup_Text": "Staff-Birm",
+            "lookup_Value": "3"
+        },
+        {
+            "id": "4",
+            "lookup_Text": "En Suite Bedroom-Birm",
+            "lookup_Value": "4"
+        }
+    ]
 }
