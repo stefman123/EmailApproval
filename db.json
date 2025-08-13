@@ -1,4 +1,5 @@
-[
+{
+    [
     {
         "lookup_Value": "0",
         "lookup_Text": "- Please select -"
@@ -344,3 +345,4 @@
         "lookup_Text": "Wilmslow Park"
     }
 ]
+}
