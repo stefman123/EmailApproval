@@ -1,4 +1,4 @@
-    [
+[
     {
         "lookup_Value": "0",
         "lookup_Text": "- Please select -"
@@ -10,5 +10,5 @@
     {
         "lookup_Value": "99",
         "lookup_Text": "Aldgate"
-    },
-    ]
+    }
+]
