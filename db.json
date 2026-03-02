@@ -162,5 +162,87 @@
             "lookup_Text": "En Suite Bedroom-Birm",
             "lookup_Value": "4"
         }
-    ]
+    ],
+    "entryStatuses":[
+  {
+    "lookup_Value": "0",
+    "lookup_Text": "Admin"
+  },
+  {
+    "lookup_Value": "1",
+    "lookup_Text": "Tentative"
+  },
+  {
+    "lookup_Value": "2",
+    "lookup_Text": "Reserved"
+  },
+  {
+    "lookup_Value": "3",
+    "lookup_Text": "Held"
+  },
+  {
+    "lookup_Value": "5",
+    "lookup_Text": "In Room"
+  },
+  {
+    "lookup_Value": "10",
+    "lookup_Text": "History"
+  },
+  {
+    "lookup_Value": "20",
+    "lookup_Text": "Occupant"
+  },
+  {
+    "lookup_Value": "21",
+    "lookup_Text": "Occupant History"
+  },
+  {
+    "lookup_Value": "22",
+    "lookup_Text": "Occupant In Room"
+  },
+  {
+    "lookup_Value": "30",
+    "lookup_Text": "Attendee"
+  },
+  {
+    "lookup_Value": "31",
+    "lookup_Text": "Attendee Arrived"
+  },
+  {
+    "lookup_Value": "32",
+    "lookup_Text": "Attendee Departed"
+  },
+  {
+    "lookup_Value": "40",
+    "lookup_Text": "Account"
+  },
+  {
+    "lookup_Value": "50",
+    "lookup_Text": "Master Account"
+  },
+  {
+    "lookup_Value": "70",
+    "lookup_Text": "Cancelled"
+  },
+  {
+    "lookup_Value": "75",
+    "lookup_Text": "Erased"
+  },
+  {
+    "lookup_Value": "80",
+    "lookup_Text": "Application"
+  },
+  {
+    "lookup_Value": "90",
+    "lookup_Text": "Incident"
+  },
+  {
+    "lookup_Value": "100",
+    "lookup_Text": "Contact"
+  },
+  {
+    "lookup_Value": "110",
+    "lookup_Text": "Alumni"
+  }
+]
 }
